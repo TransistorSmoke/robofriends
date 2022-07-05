@@ -29,7 +29,6 @@ class App extends Component {
     const additionalRobots = [...searchedRobots];
     const newerRobots = searchedRobots.concat(additionalRobots)
 
-    console.log(newerRobots)
     return !robots.length ? <h1>Loading robots</h1> :
     (
         <div className="tc">

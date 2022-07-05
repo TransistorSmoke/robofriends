@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Firt practice app #1 with React. Class used for app.js, the rest of components are functional. No use of hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
